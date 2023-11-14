@@ -8,21 +8,8 @@
   3 File(s) copied
   C:SOIL.dll
   1 File(s) copied
-  glm.cpp
   main.cpp
-  imageloader.cpp
-  loadShaders.cpp
-  Generating Code...
-  glad.c
-SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\x64\Debug\SOIL.pdb'; linking object as if no debug info
-SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\x64\Debug\SOIL.pdb'; linking object as if no debug info
-SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\x64\Debug\SOIL.pdb'; linking object as if no debug info
-SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\x64\Debug\SOIL.pdb'; linking object as if no debug info
-  ProiectGrafica-Depasire.vcxproj -> C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\x64\Debug\ProiectGrafica-Depasire.exe
-  C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\ProiectGrafica-Depasire\lib\x64\GL\DLLs\freeglut.dll
-  C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\ProiectGrafica-Depasire\lib\x64\GL\DLLs\glew32.dll
-  2 File(s) copied
-  C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\ProiectGrafica-Depasire\lib\x64\GLFW\DLLs\glfw3.dll
-  1 File(s) copied
-  C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\ProiectGrafica-Depasire\lib\x64\SOIL\SOIL.dll
-  1 File(s) copied
+  ProiectGrafica-Depasire.vcxproj -> C:\FACULTATE\Anul III\Sem I\Grafica\Laborator\ProiectGrafica-Depasire\ProiectGrafica-Depasire\Proiect1-Depasire-Grafica\x64\Debug\ProiectGrafica-Depasire.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
